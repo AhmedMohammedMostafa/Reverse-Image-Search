@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="UTF-8">
-  <title>📸 Image Search App</title>
-</head>
-
 <body>
   <h1>📸 Image Search App</h1>
   <p>Welcome to the Image Search App! This project allows you to upload images, search for similar images, and view a collection of images stored in the database.</p>
