@@ -7,7 +7,7 @@ router.post('/upload', async (req, res) => {
   try {
     const { b64, name } = req.body;
     await client.data.creator()
-      .withClassName('Meme')
+      .withClassName('Images')
       .withProperties({
         image: b64,
         text: name
